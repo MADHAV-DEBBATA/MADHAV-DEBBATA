@@ -55,8 +55,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhavdebbata&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavdebbata&layout=compact&theme=tokyonight)
+![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MADHAV-DEBBATA&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MADHAV-DEBBATA&layout=compact&theme=tokyonight)
 
 </div>
 
